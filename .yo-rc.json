@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "twohandtouch",
+    "style": "scss",
+    "postcss": false
+  }
+}
